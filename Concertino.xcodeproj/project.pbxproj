@@ -277,6 +277,7 @@
 				0900FF591CC91D7500B15094 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
