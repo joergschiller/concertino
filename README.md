@@ -1,7 +1,5 @@
 # Concertino
 
-## Disclaimer
-
 *Uses the Napster/Rhapsody Platform (just embeds https://app.napster.com) but is not endorsed, certified, or otherwise approved by Napster®/Rhapsody®.*
 
 ## What is this?
